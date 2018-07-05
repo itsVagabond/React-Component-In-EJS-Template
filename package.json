@@ -1,0 +1,16 @@
+{
+  "name": "my-react-ejs-app",
+  "version": "1.0.0",
+  "description": "Injecting React Component in EJS",
+  "main": "HelloComponent.js",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "react": "^0.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Aniket Kumar",
+  "license": "ISC"
+}
